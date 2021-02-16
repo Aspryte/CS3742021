@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title"> Rambles?</string>
+    <string name ="article_subtitle"> What to say</string>
+    <string name ="article_text"> These are such cute ponies: https://en.wikipedia.org/wiki/Fjord_horse
+        \n
+        <b> What is a dun?</b>
+        \n
+        <i>(not a dunce)</i>
+        \n
+        Fjord horses are uniformly dun.  Dun is a body colour that is a tan, gold or related shade with darker (usually black or dark brown) points and primitive markings. The breed standard recognises five shade variations. These shades have been officially recognised in Norway since 1922. The hooves are most often dark, but can be a lighter brown colour on lighter-coloured horses.
+        \n
+        \n
+        <b>History</b>
+        \n
+        \n
+        The Fjord horse is one of the oldest and purest breeds, believed to be related to the Przewalski, a primitive wild horse of Asia. Horses were known to exist in Norway at the end of the last ice age. It is believed that the ancestors of the modern Fjord horse migrated to Norway and were domesticated over 4,000 years ago. Archaeological excavations at Viking burial sites indicate that the Fjord horse type has been selectively bred for at least 2,000 years. The Fjord horse was used by the Vikings as a war mount. The Fjord horse and its ancestors have been used for hundreds of years as farm animals in western Norway. Even as late as World War II, they were useful for work in mountainous terrain. Its strength, durability, and thick coat fare well in the rough winters of Denmark.
+        \n \n
+        <b>Something else</b>
+        \n \n
+        Netflix has come a long way huh?  Do you miss the days of mail order?
+        \n
+        https://www.netflix.com
+        \n
+        Nothing like ten years ago, less like twenty years ago.. or something.. or another..
+        \n
+        <i>Something from wikipedia re:netflix</i>
+        \n \t
+            Netflix has been one of the most successful dot-com ventures. In September 2002, The New York Times reported that, at the time, Netflix mailed about 190,000 discs per day to its 670,000 monthly subscribers.
+        The company published subscriber count increased from one million in the fourth quarter of 2002 to around 5.6 million at the end of the third quarter of 2006, to 14 million in March 2010.
+        Netflix early growth was fueled by the fast spread of DVD players in households, in 2004, nearly two-thirds of United States homes had a DVD player. Netflix capitalized on the success of the DVD and its rapid expansion into United States homes,
+        integrating the potential of the Internet and e-commerce to provide services and catalogs that bricks-and-mortar retailers could not compete with.
+        Netflix also operates an online affiliate program which has helped to build online sales for DVD rentals as well. The company offers unlimited vacation time for salaried workers and allows employees to take any amount of their paychecks in stock options.
+        \n \t
+            By 2010, Netflix streaming business had grown so quickly that within months the company had shifted from the fastest-growing customer of the United States Postal Services first-class service to the largest source of Internet streaming traffic in North America in the evening.
+        <b>Well, those were words.</b>
+    </string>
+</resources>
