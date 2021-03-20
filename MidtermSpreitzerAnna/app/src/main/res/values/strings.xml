@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MidtermSpreitzerAnna</string>
+    <string name="how_many_euros">How Many Euros?</string>
+    <string name="convert_to_dollars">Convert to dollars!</string>
+</resources>
