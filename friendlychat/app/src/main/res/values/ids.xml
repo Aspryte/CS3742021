@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayout" type="id" />
+    <item name="addMessageImageView" type="id" />
+    <item name="sendButton" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="messageRecyclerView" type="id" />
+    <item name="messageEditText" type="id" />
+</resources>
