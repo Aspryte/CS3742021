@@ -86,19 +86,22 @@ public class FirstFragment extends Fragment {
             public void onClick(View view) {
                 String firName = ftext.getText().toString();
                 String laName = ltext.getText().toString();
-                count++;
 
-                Employee emp = new Employee(laName, firName);
+                if (!firName.equals("") && !laName.equals("")) {
+                    count++;
 
-                // Write a message to the database
-                FirebaseDatabase database = FirebaseDatabase.getInstance();
-                DatabaseReference myRef = database.getReference("employees");
-                myRef.child(Integer.toString(count)).setValue(emp);
 
+                    Employee emp = new Employee(laName, firName);
+
+                    // Write a message to the database
+                    FirebaseDatabase database = FirebaseDatabase.getInstance();
+                    DatabaseReference myRef = database.getReference("employees");
+                    myRef.child(Integer.toString(count)).setValue(emp);
+                }
                 //text.setText("GRUMBLE");
 
-                Toast toast = Toast.makeText(getContext(), firName, Toast.LENGTH_LONG);
-                toast.show();
+                //Toast toast = Toast.makeText(getContext(), firName, Toast.LENGTH_LONG);
+                //toast.show();
 
                 //NavHostFragment.findNavController(FirstFragment.this)
                   //      .navigate(R.id.action_FirstFragment_to_SecondFragment);
